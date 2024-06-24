@@ -1,2 +1,2 @@
 # Headphones-project_first_project___responsive
-هذا المشروع هو تصميم موقع لسماعات الأذن باستخدام HTML &amp; CSS &amp; JS مع مراعاة التصميم المستجيب ليناسب جميع أحجام الشاشات 
+This project is a website design for earphones using HTML, CSS, and JavaScript, with a responsive design to fit all screen sizes.
